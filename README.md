@@ -1,5 +1,6 @@
 # Qubit Noise Library
 A noise library designed specifically for usage with Roblox (luau), easily create a noise map in seconds.
+You might've found this git page from [this devforum post](https://devforum.roblox.com/t/qubit-noise-library-generate-complex-and-realistic-noise-maps-in-seconds/1068589).
 
 <br>
 

@@ -122,7 +122,7 @@ Allowed values in the **NoiseSettings Dictoinary**:
 ```lua
 -- Using the function to generate the noise event
 -- * means optional
-local noise = QubitNoise.generate2DPartialMap(xSize, ySize, seed*, scale*, octaves*, persistence, lacunarity, offset, normalizeValues*)
+local noise = QubitNoise.generate2DNoiseMap(xSize, ySize, seed*, scale*, octaves*, persistence, lacunarity, offset, normalizeValues*)
 
 -- Outputting every noise value from 0-50
 for x=1, 51, 1 do
